@@ -1,3 +1,0 @@
-date
-cal
-ls
